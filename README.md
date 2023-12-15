@@ -1,0 +1,2 @@
+# FairyShop
+Django ShoppingMal PJ
